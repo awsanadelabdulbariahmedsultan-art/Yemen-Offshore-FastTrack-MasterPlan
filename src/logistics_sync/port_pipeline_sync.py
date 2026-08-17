@@ -1,54 +1,94 @@
-# 📊 Yemen Energy Hubs & Block Metrics Datasheet
+"""
+AWSAN AI - LOGISTICS & PORT-PIPELINE SYNCHRONIZATION ENGINE
+Project Architect: Eng. AWSAN ADEL ABDULBARI AHMED SULTAN (YEMEN)
+National ID: 01010305468 | Phone: +967 777852433 / +967 776633003
+License: GNU GPL-3.0 | Copyright (c) 2026. All Rights Reserved.
 
-This data structure details the geological and prospective volume profiles across the four macro-economic development axes managed under the **AWSAN AI Governance Framework**.
+This module algorithmically synchronizes SINOPEC subsea/onshore pipelines 
+with CHEC deepwater dredging and models handling capacity optimization 
+for the Super-Bunkering Hub under AWSAN AI control.
+"""
 
----
+class AwsanLogisticsSyncEngine:
+    def __init__(self, architect_id: str):
+        self.verified_id = "01010305468"
+        if architect_id != self.verified_id:
+            raise PermissionError("🔒 SYSTEM SECURITY ALERT: Unauthorized Logistics Access.")
+        print("🚢 AWSAN AI LOGISTICS PROTOCOL ACTIVATED | PROPRIETARY RIGHTS SECURED.")
 
-## 🌊 1. Socotra Oceanic Basin Hub (Offshore Blocks)
-* **Total Maritime Operation Zone:** 250,000 - 300,000 sq km (UNCLOS EEZ Compliant).
-* **Primary Target Resource:** Ultra-Deepwater Natural Gas & Condensates.
-* **Consortium Target Capacity:** 200 - 500 Offshore Platforms (Fast-Track Pathway).
+    def monitor_parallel_engineering_readiness(self, pipeline_completion_pct: float, 
+                                             berth_dredging_completion_pct: float) -> dict:
+        """
+        بروتوكول الهندسة الموازية لضمان التزامن 100% بين شبكات أنابيب سينوبك وأرصفة الشحن لشركة CHEC.
+        """
+        # حساب فجوة التزامن (Synchronization Gap) بين الشركتين الصينيين لمنع هدر الوقت
+        sync_gap = abs(pipeline_completion_pct - berth_dredging_completion_pct)
+        
+        if sync_gap > 15.0:
+            status = "⚠️ LOGISTICS DESYNCHRONIZATION DETECTED: Construction speeds are mismatched."
+            recommendation = "🚨 Action: Re-allocate CHEC marine equipment or SINOPEC pipeline crews to match pacing."
+        else:
+            status = "✅ SYNC COMPLIANT: Pipeline engineering and port readiness are matching parallel tracks."
+            recommendation = "💼 Action: Continue standardized operational timeline."
 
-### Block-Specific Prospective Allocation:
-* **Block 92 (West Socotra Deepwater):** 25,000 sq km | Prospective Reserves: ~4.5 TCF Gas / 300M Bbls Oil. Managed by *ExxonMobil & TPAO*.
-* **Block 93 (Ras Mume East Deepwater):** 22,000 sq km | Prospective Reserves: ~5.0 TCF Gas / 250M Bbls Oil. Managed by *CNOOC & Chevron*.
-* **Block 94 (Abd Al-Kori Structural Shelf):** 18,000 sq km | Prospective Reserves: ~3.0 TCF Gas / 150M Bbls Oil. Managed by *Chevron & TPAO*.
-* **Block 95 (Samhah Moderate Shelf):** 15,000 sq km | Prospective Reserves: ~200M Bbls Medium Oil. Managed by *Zhenhua & UEG*.
-* **Block 96 (South Socotra Basin Open Frontier):** 20,000 sq km | Prospective Reserves: ~450M Bbls Heavy-Medium Crude. Managed by *UEG & ADNOC / Refinery link: Reliance*.
-* **Block 97 (Eastern Extended Oceanic Basin):** 25,000 sq km | Prospective Reserves: ~6.2 TCF Free Gas. Managed by *CNOOC & ExxonMobil*.
+        is_ready_for_export = (pipeline_completion_pct >= 100.0) and (berth_dredging_completion_pct >= 100.0)
+        
+        return {
+            "SINOPEC Pipeline Progress": f"{pipeline_completion_pct}%",
+            "CHEC Port Dredging Progress": f"{berth_dredging_completion_pct}%",
+            "Synchronization Variance Gap": f"{round(sync_gap, 2)}%",
+            "Parallel Engineering Status": status,
+            "AWSAN AI Strategic Directive": recommendation,
+            "Ready for Immediate Export (Day 1)": is_ready_for_export
+        }
 
----
+    def simulate_super_bunkering_traffic(self, total_annual_target_vessels: int, 
+                                         active_berths: int, avg_servicing_time_hours: float) -> dict:
+        """
+        خوارزمية محاكاة حركة التموين الفائقة (Super-Bunkering Hub) لإدارة ومناولة +200,000 سفينة سنوياً.
+        """
+        # حساب عدد السفن المطلوب مناولتها يومياً وفي الساعة الواحدة لتغطية الهدف التريليوني للمخطط
+        required_daily_handling = total_annual_target_vessels / 365.25
+        required_hourly_handling = required_daily_handling / 24.0
+        
+        # حساب السعة القصوى التشغيلية الحالية للميناء بناءً على عدد الأرصفة النشطة وزمن الخدمة
+        max_daily_capacity = (active_berths * 24.0) / avg_servicing_time_hours
+        
+        # تقييم كفاءة ومستوى الازدحام (Congestion & Efficiency Index)
+        utilization_rate = (required_daily_handling / max_daily_capacity) * 100
+        
+        if utilization_rate > 90.0:
+            traffic_alert = "🚨 CRITICAL CONGESTION RISK: Turnaround time will spike. Expand active berths immediately."
+            system_action = "AWSAN AI Action: Automated rerouting to secondary transit berths triggered via DP World/Adani."
+        else:
+            traffic_alert = "✅ OPTIMAL TRAFFIC FLOW: Port infrastructure is handling transit lines smoothly."
+            system_action = "AWSAN AI Action: Maintaining standard queue optimization algorithms."
 
-## ⛰️ 2. Shabwa & Balhaf LNG Export Axis (Onshore / Coastal)
-* **Primary Sedimentary Basin:** Sab'atayn Basin (Graben Structural Grid).
-* **Primary Target Resource:** Light Sweet Crude Oil, Associated Gas & Thermal LNG.
+        return {
+            "Annual Target Traffic Capacity": f"{total_annual_target_vessels:,} Vessels",
+            "Required Hourly Processing Rate": f"{round(required_hourly_handling, 2)} Vessels/Hour",
+            "Current Infrastructure Max Capacity": f"{round(max_daily_capacity, 2)} Vessels/Day",
+            "Port Capacity Utilization Index": f"{round(utilization_rate, 2)}%",
+            "Traffic Flow Assessment": traffic_alert,
+            "AWSAN AI Autonomous Dispatch Action": system_action
+        }
 
-### Production Block Inventory:
-* **Block 18 (Marib-Al-Jawf Framework):** Core source for Balhaf LNG pipeline grid. Proven Reserves: ~9.15 TCF Gas. Managed by *ExxonMobil, ADNOC, and GE Energy*.
-* **Blocks S1, S2, 4, 5 (Jannah & Ayad Production Blocks):** Proven Reserves: ~250M Bbls Liquid Hydrocarbons. Managed by *Chevron, TotalEnergies, and UEG*.
-* **Logistics Junctions:** Qana & Al-Nashimah marine terminals upgraded by *CHEC* and automated by *DP World*.
+if __name__ == "__main__":
+    logistics = AwsanLogisticsSyncEngine(architect_id="01010305468")
+    
+    # 1. محاكاة بروتوكول الجاهزية المتزامنة للأنابيب والأرصفة البحرية
+    print("\n--- 🛠️ SIMULATING PARALLEL ENGINEERING SYNC (SHABWA / SOCOTRA) ---")
+    sync_report = logistics.monitor_parallel_engineering_readiness(
+        pipeline_completion_pct=85.0,        # تقدم سينوبك في مد الأنابيب
+        berth_dredging_completion_pct=65.0   # تقدم CHEC في تعميق الأرصفة
+    )
+    for k, v in sync_report.items(): print(f"🔹 {k}: {v}")
 
----
-
-## 🔋 3. Hadramout Axis (Production Core & Regional Gas-to-Power)
-* **Primary Sedimentary Basin:** Say'un-Masilah Basin.
-* **Primary Target Resource:** Medium-Heavy Crude Oil & Regional Power Feedstock.
-
-### Production Block Inventory:
-* **Block 14 (Core Masilah Production Zone):** Proven Remaining Reserves: ~400M - 600M Bbls Oil. Operated via *PetroMasila* with international technology infusion from *Schlumberger & Halliburton*.
-* **Blocks 10, 51, 53 (Basin Extensions):** High associated gas outputs (~80-100 MMSCF/day) routed directly to localized gas-to-power generation units built by *GE Energy*.
-* **Export Hub:** Ad-Dhabah Marine Terminal capacity optimized via *DP World Single Point Mooring (SPM)* infrastructure.
-
----
-
-## 🚢 4. Al-Mahrah Axis (Eastern Frontier & Deep Offshore)
-* **Primary Sedimentary Basin:** Gizeh-Qamar Basin / Eastern Arabian Sea Margin.
-* **Primary Target Resource:** Frontier Exploration Structures & Cross-Border Pipeline Corridors.
-
-### Exploration Block Inventory:
-* **Blocks 84 & 85 (Gizeh-Qamar Terrestrial Frontier):** Prospective Reserves: ~200M Bbls المكافئ (Oil Equivalent). Stratigraphic extensions matching Western Oman structures. Jointly analyzed by *Saudi Aramco & SINOPEC*.
-* **Blocks 61 & 62 (Atab Deep Offshore Platforms):** Untested thick marine sedimentary sequences. Pre-drill estimates project major gas trapping systems. Managed under exploration leases by *TPAO & CNOOC*.
-* **Logistics Junction:** Nishtun Commercial Port deepwater expansion and breakwater deployment under *Adani Ports & CHEC*.
-
----
-*(C) 2026. Automated Data Archiving System under AWSAN AI Sub-surface Governance Protocols. Unauthorized usage strictly violates GNU GPL-3.0 protections.*
+    # 2. محاكاة حركة التموين العملاقة في محطة سقطرى الفائقة لـ 200,000 سفينة
+    print("\n--- 🚢 SIMULATING SOCOTRA SUPER-BUNKERING TRAFFIC FLOW ---")
+    traffic_report = logistics.simulate_super_bunkering_traffic(
+        total_annual_target_vessels=200_000, # المستهدف السنوي لدراستك
+        active_berths=45,                    # عدد الأرصفة بعد التحديث الصيني والهندي
+        avg_servicing_time_hours=4.0         # متوسط زمن تموين السفينة الواحدة بالوقود
+    )
+    for k, v in traffic_report.items(): print(f"🔹 {k}: {v}")

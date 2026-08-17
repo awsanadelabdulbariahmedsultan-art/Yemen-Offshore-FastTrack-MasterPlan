@@ -71,14 +71,20 @@ The algorithmic and computational core of this master plan is built using a Pyth
 
 ```text
 ├── .gitignore               # Standard Python ignores (caches, environments)
-├── LICENSE                  # GNU GPL-3.0 Legal Framework
-├── README.md                # Master Blueprint and Sovereign Registration
-├── docs/                    # Detailed Geological Profiles and Block Metrics (Socotra, Shabwa, Hadramout, Al-Mahrah)
+├── LICENSE                  # GNU GPL-3.0 Legal Framework for Intellectual Property Protection
+├── README.md                # Master Blueprint and Sovereign Registration (Eng. AWSAN ADEL)
+├── docs/                    # Detailed Geological Profiles and Macro Basin Metrics
+│   └── blocks_metrics.md    # Datasheet for Regional Hydrocarbon Blocks & Prospective Volumes
 ├── src/
-│   ├── awsan_ai_core/       # Core AI governance, Cost-Oil auditing models across all axes
-│   ├── logistics_sync/      # Port synchronization (Qana, Al-Nashimah, Ad-Dhabah, Nishtun, Socotra) and pipeline routing algorithms
-│   └── reservoir_models/    # Multi-lateral well flow telemetry simulators for onshore/offshore basins
-└── tests/                   # Verification scripts for algorithmic governance
+│   ├── awsan_ai_core/       # Core Financial Auditing and Anti-Coning Subsurface Governance
+│   │   └── governance_engine.py  # AI Financial-Geophysical Auditing Core and Coning Safe-Guard
+│   ├── logistics_sync/      # Port Synchronization and Supply-Chain Routing Frameworks
+│   │   └── port_pipeline_sync.py # Parallel Engineering Monitor and Super-Bunkering Dispatch Algorithm
+│   └── reservoir_models/    # Multi-lateral / Cluster Well Flow Telemetry Simulators
+│       └── well_telemetry_sim.py # Joshi-Equation Production Modeler for Multi-Branch Platforms
+└── tests/                   # Verification Scripts and Automated Governance Stress-Testing
+    └── test_governance_engine.py # Automated Test Suite with Dynamic Future Port Injection Framework
+
 ```
 
 ---
@@ -156,13 +162,19 @@ The algorithmic and computational core of this master plan is built using a Pyth
 
 ```text
 ├── .gitignore               # الملفات المستبعدة القياسية للبايثون (المخازن المؤقتة والبيئات)
-├── LICENSE                  # الإطار القانوني لرخصة GNU GPL-3.0
-├── README.md                # المخطط التوجيهي الرئيسي والتوثيق السيادي للمشروع
-├── docs/                    # التوصيفات الجيولوجية التفصيلية وبيانات القطاعات البرية والبحرية لـ (سقطرى، شبوة، حضرموت، والمهرة)
+├── LICENSE                  # الإطار القانوني لرخصة GNU GPL-3.0 لحماية الملكية الفكرية
+├── README.md                # المخطط التوجيهي الرئيسي والتوثيق السيادي للمشروع (Eng. AWSAN ADEL)
+├── docs/                    # التوصيفات الجيولوجية والبيانات الإحصائية للمحاور والقطاعات
+│   └── blocks_metrics.md    # وثيقة البيانات الجيولوجية وإحصاءات القطاعات النفطية والغازية لليمن
 ├── src/
-│   ├── awsan_ai_core/       # النواة البرمجية لنظام أوسان للذكاء الاصطناعي، ونماذج التدقيق المالي لنفط التكلفة لكل المحاور
-│   ├── logistics_sync/      # خوارزميات مزامنة الموانئ الساحلية (قنا، النشيمة، الضبة، نشطون، وسقطرى) وتوجيه شبكات الأنابيب
-│   └── reservoir_models/    # أجهزة محاكاة تدفق الآبار متعددة الفروع والتتبع اللحظي في الأحواض البرية والبحرية
-└── tests/                   # برامج التحقق والاختبار البرمجي للحوكمة الخوارزمية
+│   ├── awsan_ai_core/       # النواة البرمجية لحوكمة العقود المالية وحماية باطن الأرض من الكونينج
+│   │   └── governance_engine.py  # محرك الرقابة والتدقيق المالي الجيوفيزيائي لحقول الغاز والنفط
+│   ├── logistics_sync/      # خوارزميات مزامنة الموانئ الساحلية والتسعة وتوجيه شبكات الأنابيب
+│   │   └── port_pipeline_sync.py # محرك التزامن الهندسي وجاهزية الموانئ وإدارة حركة السفن التموينية
+│   └── reservoir_models/    # أجهزة محاكاة تدفق الآبار متعددة الفروع والتتبع اللحظي بالأحواض
+│       └── well_telemetry_sim.py # محاكي التدفق الهيدروليكي وتيليمتري الآبار الموجهة من المنصة الموحدة
+└── tests/                   # برامج التحقق الآلي والاختبارات الشاملة للتأكد من خلو النظام من الثغرات
+    └── test_governance_engine.py # ملف الاختبارات ومحاكاة الإجهاد اللوجستي وحقن الموانئ المستقبلية ديناميكياً
+
 ```
 

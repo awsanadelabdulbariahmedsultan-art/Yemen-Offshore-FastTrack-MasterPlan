@@ -1,5 +1,13 @@
 # 🇾🇪 Yemen Integrated Offshore & Onshore Master Plan (Socotra, Shabwa, Hadramout, & Al-Mahrah Hubs)
 
+---
+
+<p align="center">
+  <img src="./Yemen-Offshore-FastTrack-MasterPlan.png" alt="Yemen-Offshore-FastTrack-MasterPlan" width="1254" height="1254"/>
+</p>
+
+---
+
 ## 📌 Executive Overview
 This repository hosts the **Integrated Strategic Master Plan for the Development of Yemen's Offshore and Onshore Blocks**, encompassing the Socotra Oceanic Basin (Blocks 92-97), the Mukalla-Sayhut and Qamar Marine Basins, and the highly productive terrestrial production hubs of **Shabwa, Hadramout, and Al-Mahrah**. 
 
@@ -91,6 +99,13 @@ The algorithmic and computational core of this master plan is built using a Pyth
 
 # 🇾🇪 المخطط الاستراتيجي للمسار السريع للمناطق البحرية والبرية اليمنية (المحاور المتكاملة: سقطرى، شبوة، حضرموت، والمهرة)
 
+---
+
+<p align="center">
+  <img src="./Yemen-Offshore-FastTrack-MasterPlan.png" alt="Yemen-Offshore-FastTrack-MasterPlan" width="1254" height="1254"/>
+</p>
+
+---
 ## 📌 نظرة عامة تنفيدية
 يحتوي هذا المستودع على **المخطط الاستراتيجي المتكامل لتطوير القطاعات البحرية والبرية اليمنية**، والذي يشمل (منطقة حوض سقطرى البحري: القطاعات 92-97)، و(حوض المكلا-سيحوت وحوض قمر البحري)، بالإضافة إلى محاور الإنتاج والربط البري والساحلي في (شبوة، حضرموت، والمهرة) [1.1.2، 1.4.3].
 

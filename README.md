@@ -1,7 +1,7 @@
 # 🇾🇪 Yemen Offshore Fast-Track Master Plan (Socotra & Shabwa Hubs)
 
 ## 📌 Executive Overview
-This repository contains the **Integrated Strategic Master Plan for the Development of Yemen's Offshore Blocks** (Socotra Basin Zone: Blocks 92-97 & extending oceanic areas) and **Onshore Production Hubs** (Shabwa/Balhaf). 
+This repository contains the **Integrated Strategic Master Plan for the Development of Yemen's Offshore Blocks** (Socotra Basin Zone: Blocks 92 To 97 & extending oceanic areas) and **Onshore Production Hubs** (Shabwa/Balhaf). 
 
 Spanning an international UNCLOS-recognized maritime economic zone of **250,000 to 300,000 square kilometers**, this macro-economic blueprint orchestrates a high-efficiency, Fast-Track Consortium of global energy titans, sovereign funds, and logistics giants to unlock and scale Yemen's massive hydrocarbon and maritime potential within a compressed **3 to 5-year production timeline**.
 
@@ -74,7 +74,7 @@ The algorithmic and computational core of this master plan is built using a Pyth
 # 🇾🇪 المخطط الاستراتيجي للمسار السريع للمناطق البحرية اليمنية (محورا سقطرى وشبوة)
 
 ## 📌 نظرة عامة تنفيدية
-يحتوي هذا المستودع على **المخطط الاستراتيجي المتكامل لتطوير القطاعات البحرية اليمنية** (منطقة حوض سقطرى: القطاعات 92-97 والمساحات المحيطية الممتدة) و**محاور الإنتاج البرية** (شبوة/بلحاف).
+يحتوي هذا المستودع على **المخطط الاستراتيجي المتكامل لتطوير القطاعات البحرية اليمنية** (منطقة حوض سقطرى: القطاعات 92 إلى 97 والمساحات المحيطية الممتدة) و**محاور الإنتاج البرية** (شبوة/بلحاف).
 
 تغطي هذه الخريطة الاقتصادية الكلية مساحة مائية اقتصادية خالصة معترف بها دولياً وأممياً بموجب اتفاقية قانون البحار (UNCLOS) تتراوح بين **250,000 إلى 300,000 كيلومتر مربع**، وتدير ائتلافاً دولياً عالي الكفاءة (Fast-Track Consortium) يضم كبرى كتل الطاقة، الصناديق السيادية، وعمالقة اللوجستيات العالميين لفتح وتوسيع نطاق الإمكانيات الهيدروكربونية والملاحية لليمن ضمن **جدول زمني مضغوط للإنتاج يتراوح بين 3 إلى 5 سنوات**.
 

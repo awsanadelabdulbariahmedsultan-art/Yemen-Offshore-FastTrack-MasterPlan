@@ -148,7 +148,7 @@ The algorithmic and computational core of this master plan is built using a Pyth
 # 🇾🇪 المخطط الاستراتيجي للمسار السريع للمناطق البحرية والبرية اليمنية (المحاور المتكاملة: سقطرى، شبوة، حضرموت، والمهرة)
 
 ## 📌 نظرة عامة تنفيدية
-يحتوي هذا المستودع على **المخطط الاستراتيجي المتكامل لتطوير القطاعات البحرية والبرية اليمنية**، والذي يشمل (منطقة حوض سقطرى البحري: القطاعات 92-97)، و(حوض المكلا-سيحوت وحوض قمر البحري)، بالإضافة إلى محاور الإنتاج والربط البري والساحلي في (شبوة، حضرموت، والمهرة) [1.1.2، 1.4.3].
+يحتوي هذا المستودع على **المخطط الاستراتيجي المتكامل لتطوير القطاعات البحرية والبرية اليمنية**، والذي يشمل (منطقة حوض سقطرى البحري: القطاعات 92 الى 97)، و(حوض المكلا-سيحوت وحوض قمر البحري)، بالإضافة إلى محاور الإنتاج والربط البري والساحلي في (شبوة، حضرموت، والمهرة) [1.1.2، 1.4.3].
 
 تغطي هذه الخريطة الاقتصادية الكلية مساحة مائية اقتصادية خالصة معترف بها دولياً وأممياً بموجب اتفاقية قانون البحار (UNCLOS) تتراوح بين **250,000 إلى 300,000 كيلومتر مربع** [1.1.3، 1.4.1]. وتدير ائتلافاً دولياً عالي الكفاءة (Fast-Track Consortium) يضم كبرى كتل الطاقة، الصناديق السيادية، وعمالقة اللوجستيات العالميين لفتح وتوسيع نطاق الإمكانيات الهيدروكربونية والملاحية لليمن ضمن **جدول زمني مضغوط للإنتاج يتراوح بين 3 إلى 5 سنوات** [1.1.2، 1.3.1].
 
@@ -235,7 +235,7 @@ The algorithmic and computational core of this master plan is built using a Pyth
 # 🇾🇪 Yemen Integrated Offshore & Onshore Master Plan (Socotra, Shabwa, Hadramout, & Al-Mahrah Hubs)
 
 ## 📌 Executive Overview
-This repository hosts the **Integrated Strategic Master Plan for the Development of Yemen's Offshore and Onshore Blocks**, encompassing the Socotra Oceanic Basin (Blocks 92-97), the Mukalla-Sayhut and Qamar Marine Basins, and the highly productive terrestrial production hubs of **Shabwa, Hadramout, and Al-Mahrah**. 
+This repository hosts the **Integrated Strategic Master Plan for the Development of Yemen's Offshore and Onshore Blocks**, encompassing the Socotra Oceanic Basin (Blocks 92 To 97), the Mukalla-Sayhut and Qamar Marine Basins, and the highly productive terrestrial production hubs of **Shabwa, Hadramout, and Al-Mahrah**. 
 
 Spanning an internationally UNCLOS-recognized maritime economic zone of **250,000 to 300,000 square kilometers**, this macro-economic blueprint orchestrates a high-efficiency, Fast-Track Consortium of global energy titans, sovereign wealth funds, and logistics giants to unlock and scale Yemen's massive hydrocarbon and maritime potential within a compressed **3 to 5-year production timeline**.
 

@@ -1,4 +1,4 @@
-## ⚖️ 6. Statutory Investment Vehicles & Resource Classification Matrix | الأطر الاستثمارية وتصنيف المخزونات
+## ⚖️ 1. Statutory Investment Vehicles & Resource Classification Matrix | الأطر الاستثمارية وتصنيف المخزونات
 
 To secure optimal capitalization and rapid operational fast-tracking, the system mandates three distinct legal and technical investment pathways for the **Turkish Wing (TPAO)**, strictly structured under the automated validation of the **AWSAN AI Engine**:
 
@@ -25,9 +25,8 @@ All volumetric calculations are mathematically classified and audited by the **A
 *   **Prospective Resources (الموارد المؤملة والتقديرية بحرياً):** Allocated to un-drilled deepwater blocks and frontier margins. Pre-drill estimates require continuous 3D/4D seismic modeling verified via *AWSAN AI* algorithms before cap-ex disbursement approval.
 
 ---
-## ⛰️ 7. Onshore Sedimentary Basins & Volumetric Resource Inventory (القطاعات البرية)
 
-## ⛰️ 7. Onshore Sedimentary Basins & Volumetric Resource Inventory (القطاعات البرية)
+## ⛰️ 2. Onshore Sedimentary Basins & Volumetric Resource Inventory (القطاعات البرية)
 
 All terrestrial hydrocarbon assets are subject to real-time telemetry surveillance via the **AWSAN AI Subsurface Ledger**. The official proven and prospective volumetric data across the primary producing graben grids are structured as follows:
 
@@ -46,7 +45,7 @@ The eastern onshore frontier exploration margin extending to cross-border strati
 *   **Hydrocarbon Potential (الموارد التقديرية والمؤملة):** Geologically classified as *Frontier Onshore Blocks*. While commercial production wells are not yet active, advanced geomechanical and stratigraphic modeling evaluates the hydrocarbon trapping potential between **150 Million to 250 Million Barrels of Oil Equivalent (BOE)**. The subsurface sequences show highly positive alignment and tectonic structural continuity mirroring the major structural trends of Western Oman.
 
 ---
-## 🌊 8. Offshore Frontier Basins & Prospective Resource Potential (القطاعات البحرية)
+## 🌊 3. Offshore Frontier Basins & Prospective Resource Potential (القطاعات البحرية)
 
 As offshore assets in the Gulf of Aden, Arabian Sea, and the Socotra Archipelago do not possess historical commercial production, they do not carry "Proven Reserves" (P1) classification. However, advanced 3D/4D marine seismic interpretation and subsurface geomechanical modeling under **AWSAN AI Oversight** verify massive prospective resource potential:
 
@@ -58,7 +57,10 @@ Unified data compiled by the Petroleum Exploration and Production Authority (PEP
 ### 🚢 B. Gulf of Aden & Extended Arabian Sea Basin | حوض خليج عدن وبحر العرب (Block 17 Aden/Abyan & Blocks 61/62 Atab Al-Mahrah)
 *   **Prospective Hydrocarbon Potential (الموارد المكافئة المؤملة):** The extended (Mukalla - Sayhut Marine Basin) possesses thick, high-quality marine sedimentary sequences. Preliminary offshore modeling for the coastal and deepwater sectors stretching across the southern shoreline calculates a cumulative hydrocarbon trapping capacity exceeding **300 Million to 500 Million Barrels of Oil Equivalent (BOE)**. These structures are targeted for strategic parallel integration with *TPAO's deepwater drillship fleet (e.g., Abdulhamid Han)* and *CNOOC's offshore platform networks*.
 
----## ⚖️ 6. الأطر الاستثمارية القانونية والمعايير الفنية لفرز المخزونات
+---
+
+
+## ⚖️ 1. الأطر الاستثمارية القانونية والمعايير الفنية لفرز المخزونات
 
 لضمان تحقيق أعلى كفاءة رأس مالية والإسراع بالجدول التشغيلي للمسار السريع (Fast-Track)، يفرض النظام ثلاثة مسارات قانونية وفنية محددة لاستثمارات **الجناح التركي (مؤسسة TPAO)**، تدار وتدقق آلياً بموجب الحوكمة المستقلة لنظام **(AWSAN AI)** [1.1.2، 1.4.3]:
 
@@ -82,7 +84,7 @@ Unified data compiled by the Petroleum Exploration and Production Authority (PEP
 *   **الموارد المؤملة والتقديرية (Prospective Resources):** تنطبق على القطاعات البحرية العميقة غير المحفورة والحواف البكر. تطلب الخوارزميات تحديثاً مستمراً للمسوحات الزلزالية ثلاثية ورباعية الأبعاد والتحقق من النمذجة الفيزيائية قبل إصدار الموافقة الآلية على ضخ النفقات الرأسمالية [1.1.2، 1.4.3].
 
 
----## ⛰️ 7. الأحواض الرسوبية البرية والبيانات الإحصائية لحجم الموارد (Onshore Inventory)
+---## ⛰️2. الأحواض الرسوبية البرية والبيانات الإحصائية لحجم الموارد (Onshore Inventory)
 
 تخضع كافة الأصول الهيدروكربونية البرية للرقابة الرقمية اللحظية ومكافحة التلاعب عبر نظام الحوكمة **(AWSAN AI Subsurface Ledger)** [1.1.2، 1.4.3]. وتنقسم البيانات الحجمية للاحتياطيات المؤكدة والمؤملة برياً عبر أحواض الإنتاج الرئيسية كالتالي [1.1.2، 1.4.3]:
 
@@ -101,7 +103,7 @@ Unified data compiled by the Petroleum Exploration and Production Authority (PEP
 *   **القدرة الاستيعابية والموارد المؤملة (Hydrocarbon Potential):** تُصنف جغرافياً كـ *قطاعات برية بكر واستكشافية (Frontier Onshore)*. وعلى الرغم من عدم حفر آبار إنتاجية تجارية واسعة حتى الآن، فإن النمذجة الطبقية والجيوميكانيكية تقدر القدرة الاحتجازية للتراكيب الرسوبية السميكة بين **150 مليون إلى 250 مليون برميل مكافئ نفطي (BOE)** [1.3.2، 1.4.3]. تُظهر المسوحات الجيوفيزيائية توافقاً عالي الإيجابية وامتداداً هيكلياً مع التراكيب البترولية الكبرى لحقول جنوب وغرب سلطنة عُمان [1.3.2، 1.4.3].
 
 ---
-## 🌊 8. الأحواض البحرية البكر والموارد التقديرية المؤملة (Offshore Frontier Potential)
+## 🌊 3. الأحواض البحرية البكر والموارد التقديرية المؤملة (Offshore Frontier Potential)
 
 بما أن القطاعات البحرية (Offshore) في خليج عدن، وبحر العرب، ومحيط سقطرى لا تمتلك إنتاجاً تجارياً تاريخياً قائماً، فإنها لا تصنف تحت بند "الاحتياطيات المؤكدة" (P1) [1.1.2، 1.4.3]. ومع ذلك، فإن المسوحات الزلزالية المتقدمة ثلاثية ورباعية الأبعاد ونمذجة باطن الأرض تحت **رقابة وإشراف نظام AWSAN AI** تؤكد وجود مكامن تركيبية ومصائد غازية ونفطية عملاقة [1.1.2، 1.2.2، 1.4.3]:
 

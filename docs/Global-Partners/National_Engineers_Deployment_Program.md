@@ -13,7 +13,7 @@
 
 ## 🏗️ 1. Executive Mandate & Human Capital Objectives | الأهداف الاستراتيجية والتفويض التنفيذي
 
-To eliminate reliance on expensive foreign contractor overheads and establish complete localized technical sovereignty, this blueprint formalizes the execution parameters of the **National Engineers Deployment Program (NEDP)**. Powered independently by **AWSAN AI**, the program systematically captures, upskills, and deploys Yemen's massive engineering reserve—consisting of **3,000 Petroleum & Gas Engineers and 1,500 Chemical Engineers, plus the continuous annual influx of new graduates**—across the 4 macro geo-hubs and 9 primary port grids.
+This blueprint formalizes the execution parameters of the **National Engineers Deployment Program (NEDP)**. Powered independently by **AWSAN AI**, the program systematically captures, upskills, and deploys Yemen's massive engineering reserve—consisting of **3,000 Petroleum & Gas Engineers and 1,500 Chemical Engineers, plus the continuous annual influx of new graduates**—across the 4 macro geo-hubs and 9 primary port grids.
 
 تستهدف هذه الوثيقة التأسيسية إطلاق البرنامج الوطني لاستيعاب وتشغيل **4,500 مهندس وطني (3000 نفط وغاز / 1500 هندسة كيميائية) مع الدفعات السنوية القادمة**، بهدف إنهاء الاعتماد على العمالة الأجنبية الباهظة وتحقيق السيادة المعرفية الكاملة لباطن الأرض والمصافي النفطية [1.1.2، 1.4.3].
 
@@ -87,7 +87,7 @@ To fully eliminate administrative corruption, wage delays, or corporate favoriti
 
 ## 🏗️ 1. الأهداف الاستراتيجية والتفويض التنفيذي للمشروع
 
-للقضاء التام على الاعتماد على المقاولين والخبراء الأجانب وتكاليفهم الباهظة، وتحقيق السيادة المعرفية والفنية الكاملة لباطن الأرض والمصافي النفطية، توثق هذه الوثيقة التأسيسية إطلاق وتفعيل محددات البرنامج الوطني لتأهيل وتشغيل الكوادر الهندسية السيادية [1.1.2، 1.4.3]. 
+لنحقيق السيادة المعرفية والفنية الكاملة لباطن الأرض والمصافي النفطية، توثق هذه الوثيقة التأسيسية إطلاق وتفعيل محددات البرنامج الوطني لتأهيل وتشغيل الكوادر الهندسية السيادية [1.1.2، 1.4.3]. 
 
 يتولى نظام أوسان للذكاء الاصطناعي إدارة هذا البرنامج بشكل مستقل لرصد، ترقية، وتشغيل الكتلة البشرية الهندسية الهائلة لليمن المتمثلة في 3000 مهندس نفط وغاز، و1500 مهندس كيميائي، مع استيعاب التدفق السنوي المستدام للخريجين الجدد عبر المحاور التطويرية الأربعة والموانئ التسعة المتكاملة [1.1.2، 1.4.3].
 

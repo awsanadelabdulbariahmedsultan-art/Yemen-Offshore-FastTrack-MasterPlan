@@ -99,7 +99,7 @@ The algorithmic and computational core of this master plan is built using a Pyth
 └── tests/                   # Verification Scripts and Automated Governance Stress-Testing
     └── test_governance_engine.py # Automated Test Suite with Dynamic Future Port Injection Framework
 
-
+```
 
 ---
 
@@ -182,6 +182,7 @@ The algorithmic and computational core of this master plan is built using a Pyth
 تعتمد البنية التحتية البرمجية والحسابية لهذا المخطط الاستراتيجي على هيكلية مدفوعة بلغة بايثون لنمذجة ديناميكيات السوائل، تدفقات سلاسل الإمداد، والحوكمة المالية:
 
 ```text
+
 ├── .gitignore               # الملفات المستبعدة القياسية للبايثون (المخازن المؤقتة والبيئات)
 ├── LICENSE                  # الإطار القانوني لرخصة GNU GPL-3.0 لحماية الملكية الفكرية والسيادية
 ├── README.md                # المخطط التوجيهي الرئيسي والتوثيق السيادي للمشروع (Eng. AWSAN ADEL)

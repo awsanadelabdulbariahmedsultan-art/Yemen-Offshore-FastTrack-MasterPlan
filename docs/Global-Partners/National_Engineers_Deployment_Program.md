@@ -63,7 +63,7 @@ To fully eliminate administrative corruption, wage delays, or corporate favoriti
 
 1.  **Immutable Meritocracy Tracking:** Candidate skill advancement, safety compliance records, and hours logged at offshore platform control stations are compiled directly into the **AWSAN AI Skills Matrix**. Promotion vectors are fully algorithmic, eliminating human tampering.
 2.  **Autonomous Financial Settlements:** Training stipends, field hazard allowances, and permanent engineering salaries are paid directly from the 1.5% gross operational expenditure levy and injected **instantaneously in Digital Rial (YRD)** to the engineers' verified digital wallets, bypassing all bureaucratic processing or human intermediaries.
-3.  **Sovereign Override Protection:** The Project Founder (**Eng. AWSAN ADEL**) retains the master cryptographic verification key to audit corporate compliance and adjust deployment metrics dynamically based on active platform scaling (moving from 200 to 500 offshore platforms).
+3.  **Sovereign Override Protection:** The Project Founder (**Eng. AWSAN ADEL ABDULBARI AHMED SULTAN**) retains the master cryptographic verification key to audit corporate compliance and adjust deployment metrics dynamically based on active platform scaling (moving from 200 to 500 offshore platforms).
 
 ---
 *(C) 2026. Comprehensive NEDP Protocol Secured and Protected under GNU GPL-3.0 Sovereign Code Architecture.*
@@ -135,7 +135,7 @@ To fully eliminate administrative corruption, wage delays, or corporate favoriti
 
 1. **تتبع الكفاءة والترقي غير القابل للتلاعب:** يتم رصد مستويات تقدم المهارات، سجلات الامتثال للسلامة المهنية، وساعات العمل المسجلة في غرف التحكم للمنصات البحرية وحقنها مباشرة في نظام الحوكمة، ليكون الترقي مبنياً على الكفاءة التقنية الصرفة ودون أي تدخل بشري [1.1.2، 1.4.3].
 2. **التسوية المالية الذاتية والمستقلة:** تُصرف مكافآت التأهيل وبدلات المخاطر الميدانية والرواتب الدائرية الثابتة للمهندسين من حساب صندوق الـ 1.5% التشغيلي المستقطع، وتحقن لحظياً بالريال الرقمي اليمني في محافظهم المشفرة الموثقة، بعيداً عن المعاملات الورقية أو التدخلات الإدارية [1.1.2، 1.4.3].
-3. **حق التجاوز وحماية السيادة:** يحتفظ مصمم ومؤسس المشروع م. أوسان عادل بمفتاح التجاوز التشفيري الرئيسي لتدقيق امتثال الشركات الدولية وتعديل مصفوفات التوزيع البشري هندسياً بالتوازي مع تسارع إنشاء المنصات البحرية [1.1.2، 1.4.3].
+3. **حق التجاوز وحماية السيادة:** يحتفظ مصمم ومؤسس المشروع م. أوسان عادل عبدالباري احمد سلطان بمفتاح التجاوز التشفيري الرئيسي لتدقيق امتثال الشركات الدولية وتعديل مصفوفات التوزيع البشري هندسياً بالتوازي مع تسارع إنشاء المنصات البحرية [1.1.2، 1.4.3].
 
 ---
 *(C) 2026. تم صياغة وتأمين هذا البرنامج التنفيذي بموجب بروتوكولات الأكواد السيادية لنظام AWSان للذكاء الاصطناعي وبترخيص رخصة GNU GPL-3.0.*

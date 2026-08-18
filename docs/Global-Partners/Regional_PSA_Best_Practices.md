@@ -30,11 +30,23 @@ To attract tier-one international energy monopolies (e.g., *TPAO, ExxonMobil, Ch
 *   **Contractual Integration under AWSAN AI:**
     *   *Advanced Technology Cost Recovery Premium:* Given that the deepwater prospective gas structures in the Socotra Oceanic Basin and Arabian Sea margins may present high-difficulty geomechanical environments, the PSA includes a specialized **"Subsurface Technology Clause."** This autonomously allocates a higher cost recovery ceiling (up to 60-70% in early production years) to the operator if complex multi-lateral horizontal branching, advanced seismic mapping, or thermodynamic insulation techniques are deployed.
 
-### 3. 🇸🇦 The Saudi In-Kingdom Total Value Add Paradigm (IKTVA Model - Knowledge Localization)
-*   **The Regional Lesson:** Saudi Arabia (via *Saudi Aramco*) forces global service giants (*Halliburton, Schlumberger, Baker Hughes*) to build localized research hubs, fabricate materials domestically, and train national engineers as a baseline condition for contract award.
-*   **Contractual Integration under AWSAN AI:**
-    *   *Mandatory Sovereign Knowledge Transfer Clause:* The PSA mandates that any active international operator or service entity (*TPAO, Halliburton, Schlumberger*) must allocate a fixed 1.5% of total gross operational expenditures to fund and establish the **"Yemen Center for Marine Sciences & Energy Exploration."** 
-    *   *Human Capital Upskilling:* Forcing continuous technical training modules to upskill Yemeni engineers within the Petroleum Exploration and Production Authority **(PEPA)** on autonomous subsurface telemetry, drillship command, and 3D reservoir fluid mechanics.
+### 3. 🇸🇦 The Saudi In-Kingdom Total Value Add Paradigm (IKTVA Model - Knowledge Localization & Human Capital Absorption)
+
+*   **The Regional Lesson:** Saudi Arabia (via *Saudi Aramco*) strictly mandates global service giants (*Halliburton, Schlumberger, Baker Hughes*) to establish advanced, localized R&D hubs, fabricate technical sub-surface components locally, and continually train and employ national engineers as a non-negotiable prerequisite prior to bidding for or renewing strategic capital projects.
+
+*   **Contractual & Operational Integration under AWSAN AI Oversight:**
+    
+    *   **Mandatory Sovereign Knowledge Transfer Clause:** The framework mandates that any active international operator, midstream engineering consortium, or tier-one oilfield service entity (*TPAO, Halliburton, Schlumberger, CNOOC*) must systematically allocate a fixed **1.5% of total gross operational expenditures (OPEX)** to fund, establish, and continuously operate the **"Yemen Center for Marine Sciences & Energy Exploration"** and its specialized high-tier laboratory infrastructure.
+    
+    *   **Human Capital Engineering & National Talent Absorption Matrix (Immediate Operational Deployment):**
+        Establishing a legally binding, algorithmically monitored protocol engineered to immediately re-qualify, absorb, and mobilize Yemen's untapped engineering reserve—comprising **3,000 graduated Petroleum & Gas Engineers and 1,500 graduated Chemical Engineers**, alongside the sustained annual influx of new engineering graduates—under the following operational deployment tracks:
+        
+        1. **Subsurface Telemetry & Reservoir Simulation Complex (Petroleum & Gas Engineers):** Global drilling contractors and service entities are contractually obligated to distribute the 3,000 petroleum engineers across advanced 3D real-time reservoir data ingestion platforms, sub-surface logging-while-drilling (LWD) matrices, *TPAO deepwater drillship fleet telemetry control*, and autonomous production choke optimization loops to mitigate **3-Phase Coning Breakthroughs** under the oversight of the Supreme Technical Council.
+        2. **Refining Kinetics & Downstream Process Engineering Complex (Chemical Engineers):** The consortium shall absorb and deploy the 1,500 chemical engineers across advanced midstream modular refineries, the **Balhaf LNG Facility** liquefaction trains, and the 100% clean-energy microgrid laboratories. Their technical mandate encompasses condensate fraction stabilization, drilling fluid rheology management, hydrocarbon sweetening processes, and the commercial development of green ammonia and hydrogen vectors.
+        3. **Sustained Annual Graduate Influx Sub-Protocol:** The **AWSAN AI Engine** autonomously monitors, logs, and indexes newly graduated cohorts from national engineering faculties each academic cycle, automatically binding international operators to allocate paid, field-level **Graduate Development Programs (GDP)** that transition directly into permanent offshore platform and multi-port technical employment.
+
+    *   **Biometric Financial Immunization via KYC and YRD Ledger:** 
+        To eliminate administrative delays, corporate nepotism, or localized financial leakage, all 4,500 registered engineers (and future graduate inductees) are formally onboarded into the decentralized **National Biometric KYC Digital Identity System**. Their field certifications, technical performance matrices, and professional experience curves are cryptographically anchored onto the system's ledger. Compensation, field hazard stipends, and localized R&D bonuses funded by the 1.5% operational levy are settled and injected **instantaneously in Digital Rial (YRD)** directly to their secure digital wallets, bypassable of human intervention.
 
 ### 4. 🇸🇴 The Somali-Turkish Maritime Security Precedent (Sovereign Defense-Energy Axis)
 *   **The Regional Lesson:** Somalia established a historical economic-defense framework with Turkey, authorizing the Turkish Navy to secure Somalia's exclusive economic zone (EEZ) against asymmetric threats in direct exchange for granting **TPAO** exclusive exploratory leases.
@@ -88,11 +100,23 @@ To eliminate the historical administrative corruption and human interference tha
 *   **التكامل التعاقدي تحت حوكمة نظام أوسان الذكي:**
     *   *علاوة استرداد تكاليف التكنولوجيا المتقدمة:* بالنظر إلى أن مكامن الغاز عاتية العمق في حوض سقطرى وبحر العرب قد تشهد ظروفاً جيوميكانيكية فائقة الصعوبة، يدمج العقد المطور **"بند تكنولوجيا باطن الأرض"**. يمنح هذا البند آلياً سقف استرداد تكاليف أعلى (يصل من 60% إلى 70% في سنوات الإنتاج الأولى) لصالح المشغل في حال نشره لتقنيات الحفر الأفقي متعدد الأفرع (Multi-lateral)، والمسح الزلزالي رباعي الأبعاد، وعوازل الحرارة المتقدمة لحماية البئر [1.1.2، 1.4.3].
 
-### 3. 🇸🇦 نموذج برنامج تعظيم القيمة المضافة بالمملكة العربية السعودية (تجربة "إكتفاء" - توطين المعرفة)
-*   **الدرس الإقليمي المستفاد:** تفرض المملكة العربية السعودية (عبر شركة *أرامكو السعودية*) على عمالقة الخدمات النفطية (*هاليبرتون وشلمبرجير*) بناء مراكز أبحاث متطورة، وتصنيع المواد محلياً، وتدريب الكوادر الهندسية الوطنية كشرط أساسي وإلزامي لمنع منح عقود المشاريع [1.1.2، 1.2.4، 1.4.3].
-*   **التكامل التعاقدي تحت حوكمة نظام أوسان الذكي:**
-    *   *بند النقل الإلزامي للمهارات والسيادة المعرفية:* يلزم العقد المطور أي مشغل دولي أو شركة خدمات نشطة في القطاعات (*TPAO، هاليبرتون، شلمبرجير*) بتخصيص نسبة ثابتة تبلغ 1.5% من إجمالي النفقات التشغيلية لتمويل وتأسيس **"مركز اليمن لعلوم البحار واستكشاف الطاقة"**.
-    *   *تطوير الرأس المال البشري:* فرض دورات تدريبية تقنية مستمرة لترقية مهارات المهندسين اليمنيين في الهيئة العامة للاستكشافات النفطية (**PEPA**) على إدارة أنظمة التيليمتري اللحظية لباطن الأرض، قيادة سفن الحفر، وميكانيكا سوائل المكامن ثلاثية الأبعاد [1.1.2، 1.4.3].
+### 3. 🇸🇦 نموذج برنامج تعظيم القيمة المضافة بالمملكة العربية السعودية (تجربة "إكتفاء" - توطين المعرفة واستيعاب الكوادر الوطنية)
+
+*   **الدرس الإقليمي المستفاد:** تفرض المملكة العربية السعودية (عبر شركة *أرامكو السعودية*) على عمالقة الخدمات النفطية (*هاليبرتون وشلمبرجير*) بناء مراكز أبحاث وتطوير متقدمة، وتصنيع المواد ميكانيكياً وكيميائياً محلياً، وتدريب وتشغيل الكوادر الهندسية الوطنية كشرط أساسي وإلزامي قبل منح أو تجديد عقود المشاريع.
+
+*   **التكامل التعاقدي والتشغيلي تحت حوكمة نظام أوسان الذكي (AWSAN AI):**
+    
+    *   **بند النقل الإلزامي للمهارات والسيادة المعرفية:** يُلزم العقد المطور أي مشغل دولي أو شركة خدمات نفطية أو كيميائية أو لوجستية نشطة في كافة القطاعات والمحاور بتخصيص نسبة ثابتة وإلزامية تبلغ **1.5% من إجمالي النفقات التشغيلية الإجمالية (OPEX)** لتمويل، وتأسيس، وتشغيل **"مركز اليمن لعلوم البحار واستكشاف الطاقة"** ومختبراته المتطورة.
+    
+    *   **الهندسة البشرية واستيعاب الائتلاف الهندسي اليمني (المصفوفة التشغيلية الفورية):**
+        تأسيس بروتوكول حركي ملزم ومؤتمت لإعادة تأهيل وتشغيل المخزون البشري الهندسي لليمن المتمثل في **3000 مهندس نفط وغاز خريج، و1500 مهندس كيميائي خريج**، مع استيعاب التدفق السنوي المستدام للخريجين الجدد وفق مصفوفة العمليات التالية:
+        
+        1. **مجمع محاكاة تيليمتري باطن الأرض (مهندسو النفط والغاز):** يلتزم عمالقة الحفر والخدمات بتشغيل وتوزيع الـ 3000 مهندس على برامج محاكاة المكامن ثلاثية الأبعاد ولحظية التدفق، وإدارة أنظمة التيليمتري لأسطول سفن حفر المياه العميقة لشركة TPAO، والتحكم في صمامات خنق الإنتاج لمنع ظواهر الكونينج (3-Phase Coning) تحت إشراف المجلس الفني الأعلى.
+        2. **مجمع ميكانيكا التكرير والهندسة التحويلية (المهندسون الكيميائيون):** يلتزم الائتلاف الدولي والشركات المشغلة باستيعاب وتدريب الـ 1500 مهندس كيميائي داخل مصافي التكرير النمطية المتطورة ومحطات تسييل الغاز الطبيعي (Yemen LNG) في بلحاف، ومختبرات الطاقة الخضراء 100% لإدارة إنتاج المكثفات، ومعالجة أطيان الحفر، وتسييل الهيدروكربونات، وتطوير الأمونيا الخضراء والهيدروجين.
+        3. **بند التدفق السنوي المستدام (Sustained Influx Clause):** يلتزم النظام تلقائياً عبر منصة *AWSAN AI* برصد وتتبع الدفعات السنوية الجديدة من خريجي كليات الهندسة (نفط، غاز، كيمياء) وإلزام الشركات الدولية بتخصيص مقاعد تدريبية ميدانية (Graduate Development Programs) مدفوعة الأجر تنتهي بالتوظيف المباشر في المنصات العائمة والموانئ التسعة.
+
+    *   **التحصين والسيادة اللامركزية عبر نظام KYC:** 
+        يتم تسجيل كافة المهندسين البالغ عددهم 4500 مهندس (والخريجين المستقبليين) عبر **منظومة الهوية الرقمية البيومترية الموثقة (KYC)** التابعة لنظام أوسان للذكاء الاصطناعي. ترتبط سجلات تقييم أدائهم الفني وخبراتهم الميدانية مباشرة بدفتر أستاذ المنظومة، وتُصرف مكافآتهم ورواتبهم وبدلات التدريب الميداني الممول من نسبة الـ 1.5% بالريال الرقمي (YRD) دون أي إمكانية للتدخل البشري أو البيروقراطية الإدارية أو استقطاع الحقوق.
 
 ### 4. 🇸🇴 نموذج الشراكة الأمنية-الاقتصادية الصومالية التركية (محور الدفاع والطاقة المشترك)
 *   **الدرس الإقليمي المستفاد:** أسست الصومال مؤخراً إطاراً استراتيجياً وتاريخياً مع تركيا، تفوض بموجبه القوات البحرية التركية بحماية وتأمين منطقتها الاقتصادية الخالصة (EEZ) ضد المخاطر والتهديدات الإقليمية، مقابل منح **مؤسسة TPAO التركية** حقوقاً حصرية للتنقيب والإنتاج في قطاعاتها البحرية [1.1.2، 1.2.7، 1.4.3].

@@ -75,14 +75,20 @@ Targeting a compressed **Fast-Track Deployment of 200 to 500 Offshore Platforms*
 
 ## 📂 Repository Directory Layout (Python-Driven Architecture)
 
-The algorithmic and computational core of this master plan is built using a Python-driven data structure to model geofluid dynamics, supply-chain flow, and financial governance:
-
 ```text
+
+The algorithmic and computational core of this master plan is built using a Python-driven data structure to model geofluid dynamics, supply-chain flow, and financial governance:
 ├── .gitignore               # Standard Python ignores (caches, environments)
 ├── LICENSE                  # GNU GPL-3.0 Legal Framework for Intellectual Property Protection
 ├── README.md                # Master Blueprint and Sovereign Registration (Eng. AWSAN ADEL)
 ├── docs/                    # Detailed Geological Profiles and Macro Basin Metrics
-│   └── blocks_metrics.md    # Datasheet for Regional Hydrocarbon Blocks & Prospective Volumes
+│   ├── blocks_metrics.md    # Datasheet for Regional Hydrocarbon Blocks & Prospective Volumes
+│   └── granular_blocks_inventory.md # Granular Inventory of Yemen's Hydrocarbon Assets (Offshore & Onshore)
+├── Documentation/           # Master Strategic Agreements and Transnational Frameworks
+│   └── Global-Partners/     # Operational Strategy Guidelines per Sovereign Country Member
+│       ├── National_Engineers_Deployment_Program.md # Comprehensive Cadres Up-skilling & Training Matrix
+│       ├── Regional_PSA_Best_Practices.md # Regional Contractual Benchmarking (Egypt, Oman, KSA, Somalia)
+│       └── Turkey_TPAO_Deepwater_Fleet_Strategy.md # TPAO Drillship Operations Fleet & CAPEX Optimization
 ├── src/
 │   ├── awsan_ai_core/       # Core Financial Auditing and Anti-Coning Subsurface Governance
 │   │   └── governance_engine.py  # AI Financial-Geophysical Auditing Core and Coning Safe-Guard
@@ -93,7 +99,7 @@ The algorithmic and computational core of this master plan is built using a Pyth
 └── tests/                   # Verification Scripts and Automated Governance Stress-Testing
     └── test_governance_engine.py # Automated Test Suite with Dynamic Future Port Injection Framework
 
-```
+
 
 ---
 
@@ -177,17 +183,23 @@ The algorithmic and computational core of this master plan is built using a Pyth
 
 ```text
 ├── .gitignore               # الملفات المستبعدة القياسية للبايثون (المخازن المؤقتة والبيئات)
-├── LICENSE                  # الإطار القانوني لرخصة GNU GPL-3.0 لحماية الملكية الفكرية
+├── LICENSE                  # الإطار القانوني لرخصة GNU GPL-3.0 لحماية الملكية الفكرية والسيادية
 ├── README.md                # المخطط التوجيهي الرئيسي والتوثيق السيادي للمشروع (Eng. AWSAN ADEL)
-├── docs/                    # التوصيفات الجيولوجية والبيانات الإحصائية للمحاور والقطاعات
-│   └── blocks_metrics.md    # وثيقة البيانات الجيولوجية وإحصاءات القطاعات النفطية والغازية لليمن
+├── docs/                    # التوصيفات الجيولوجية التفصيلية وبيانات القطاعات والمكامن
+│   ├── blocks_metrics.md    # وثيقة البيانات الجيولوجية وإحصاءات القطاعات النفطية والغازية لليمن
+│   └── granular_blocks_inventory.md # الجرد التفصيلي للأصول الهيدروكربونية (القطاعات البرية والبحرية)
+├── Documentation/           # مجلد الاتفاقيات الاستراتيجية الكبرى وأطر العمل متعددة الجنسيات
+│   └── Global-Partners/     # أدلة الإستراتيجية التشغيلية للدول الأعضاء والشركاء الدوليين
+│       ├── National_Engineers_Deployment_Program.md # البرنامج التنفيذي لتأهيل وتشغيل الكوادر الهندسية الوطنية
+│       ├── Regional_PSA_Best_Practices.md # مصفوفة القياس الإقليمي وتحسين عقود مشاركة الإنتاج (PSA)
+│       └── Turkey_TPAO_Deepwater_Fleet_Strategy.md # استراتيجية أسطول حفر المياه العميقة لمؤسسة TPAO وتحسين التكاليف
 ├── src/
 │   ├── awsan_ai_core/       # النواة البرمجية لحوكمة العقود المالية وحماية باطن الأرض من الكونينج
 │   │   └── governance_engine.py  # محرك الرقابة والتدقيق المالي الجيوفيزيائي لحقول الغاز والنفط
 │   ├── logistics_sync/      # خوارزميات مزامنة الموانئ الساحلية والتسعة وتوجيه شبكات الأنابيب
-│   │   └── port_pipeline_sync.py # محرك التزامن الهندسي وجاهزية الموانئ وإدارة حركة السفن التموينية
+│   │   └── port_pipeline_sync.py # محرك التزامن الهندسي الموازي وجدولة حركة أسطول التموين الفائق
 │   └── reservoir_models/    # أجهزة محاكاة تدفق الآبار متعددة الفروع والتتبع اللحظي بالأحواض
-│       └── well_telemetry_sim.py # محاكي التدفق الهيدروليكي وتيليمتري الآبار الموجهة من المنصة الموحدة
+│       └── well_telemetry_sim.py # محاكي التدفق الهيدروليكي وتيليمتري الآبار الموجهة والقبب الملحية للأوفشور
 └── tests/                   # برامج التحقق الآلي والاختبارات الشاملة للتأكد من خلو النظام من الثغرات
     └── test_governance_engine.py # ملف الاختبارات ومحاكاة الإجهاد اللوجستي وحقن الموانئ المستقبلية ديناميكياً
 
